@@ -19,7 +19,7 @@
  3）将/etc/passwd、/boot、/etc/group同时拷贝到/example/目录下
  4）将ifconfig命令的前两行内容，追加写入mylove.txt
  5）将主机名永久配置文件，拷贝到/example/目录下
- 6）将DNS永久配置文件，拷贝到/example/目录下
+ 6）将DNS永久配置文件/etc/resolv.conf，拷贝到/example/目录下
  7）将开机自动挂载配置文件，拷贝到/example/目录下
 
 
